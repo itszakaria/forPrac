@@ -1,22 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 20.597 sec <<< FAILURE! - in TestSuite
-doTheBdInterviewThings(TestCases.AppleWatchTesting)  Time elapsed: 15.238 sec  <<< FAILURE!
-org.openqa.selenium.WebDriverException: 
-Element is obscured (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
-System info: host: 'ZAKARIA-HP', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {InPrivate: false, acceptSslCerts: true, applicationCacheEnabled: true, browserName: MicrosoftEdge, browserVersion: 41.16299.15.0, javascriptEnabled: true, locationContextEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true, webStorageEnabled: true}
-Session ID: 86F7552F-7906-431A-A6DA-C1DA39673951
-	at TestCases.AppleWatchTesting.doTheBdInterviewThings(AppleWatchTesting.java:41)
-
-setUp(TestCases.Homepage)  Time elapsed: 16.383 sec  <<< FAILURE!
-org.openqa.selenium.WebDriverException: 
-Unable to parse remote response: Unknown error
-Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
-System info: host: 'ZAKARIA-HP', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
-Driver info: driver.version: SelectDriver
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.751 s - in TestSuite
