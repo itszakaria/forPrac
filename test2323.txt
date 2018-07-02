@@ -1,0 +1,24 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BAD8-BA22
+
+ Directory of C:\Users\itszakaria\Documents\GitHub\forPrac
+
+07/02/2018  06:48 PM    <DIR>          .
+07/02/2018  06:48 PM    <DIR>          ..
+09/26/2017  02:22 PM             1,497 .classpath
+01/30/2018  03:28 PM                66 .gitattributes
+09/26/2017  12:56 PM               562 .project
+01/30/2018  05:28 PM    <DIR>          .settings
+02/02/2018  12:30 AM               969 index2.html
+09/26/2017  03:33 PM             1,375 pom.xml
+02/27/2018  11:42 AM    <DIR>          readme021.txt
+03/07/2018  11:21 AM             1,395 readme113.txt
+01/30/2018  05:00 PM             4,606 sample.war
+01/30/2018  05:28 PM    <DIR>          src
+01/30/2018  05:28 PM    <DIR>          target
+01/30/2018  05:28 PM    <DIR>          test-output
+07/02/2018  06:23 PM             1,025 test111.txt
+07/02/2018  06:48 PM                 0 test2323.txt
+09/26/2017  01:54 PM               285 testNg.xml
+              10 File(s)         11,780 bytes
+               7 Dir(s)  28,707,307,520 bytes free
