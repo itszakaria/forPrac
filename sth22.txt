@@ -1,0 +1,27 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCC9-9550
+
+ Directory of C:\Users\itsza\OneDrive\Documents\GitHub\forPrac
+
+10/19/2020  05:02 PM    <DIR>          .
+10/19/2020  05:02 PM    <DIR>          ..
+09/26/2017  02:22 PM           (1,497) .classpath
+10/14/2020  06:58 PM    <DIR>          .git
+01/30/2018  03:28 PM              (66) .gitattributes
+09/26/2017  12:56 PM             (562) .project
+10/14/2020  06:58 PM    <DIR>          .settings
+02/02/2018  12:30 AM             (969) index2.html
+09/26/2017  03:33 PM           (1,375) pom.xml
+10/14/2020  06:58 PM    <DIR>          readme021.txt
+03/07/2018  11:21 AM           (1,395) readme113.txt
+01/30/2018  05:01 PM           (4,606) sample.war
+10/14/2020  06:58 PM    <DIR>          src
+10/19/2020  05:02 PM                 0 sth22.txt
+10/14/2020  06:58 PM    <DIR>          target
+10/14/2020  06:58 PM    <DIR>          test-output
+07/02/2018  06:23 PM           (1,025) test111.txt
+07/02/2018  06:54 PM           (1,130) test121.txt
+07/02/2018  06:48 PM           (1,078) test2323.txt
+09/26/2017  01:54 PM             (285) testNg.xml
+              12 File(s)         13,988 bytes
+               8 Dir(s)  881,366,589,440 bytes free
